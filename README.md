@@ -81,7 +81,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ashi-Singh/AutoRead-Status-Bot-Md/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=            ☘️🥰😍☘️🥰😍☘️🥰😍☘️🥰😍☘️🥰😍 )
 
 # Install Manually 👇
 ## `Requirements`
@@ -130,5 +130,5 @@ npm start
 npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ```
 
-# Special Thanks To. 👇
-* [Kavishaka](https://github.com/kavishkaya)
+
+
