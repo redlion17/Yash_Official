@@ -10,7 +10,7 @@ AshiSingh Bot Multi Device is a automated whatsapp bot created by <a href="https
 </p>
 
 <p align="center">
-<a href="https://youtube.com/c/HYPERMOD"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
+<a href=" https://youtube.com/channel/UCX-iMp9zALihVM6gg2b1Nsg "><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
 </p>
 
 ------
@@ -33,14 +33,14 @@ AshiSingh Bot Multi Device is a automated whatsapp bot created by <a href="https
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/94767043432"><img src="https://img.shields.io/badge/Contact Hyper Mod-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/DNUr9fAAaTq6YW3SFQHX7Q"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com/c/HYPERMOD"><img src="https://img.shields.io/badge/Subscribe Hyper Mod-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/c/HYPERMOD" /><br>
+<a href="https://wa.me/94770181369"><img src="https://img.shields.io/badge/Contact Hyper Mod-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href=""><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href=" https://youtube.com/channel/UCX-iMp9zALihVM6gg2b1Nsg "><img src="https://img.shields.io/badge/Subscribe Hyper Mod-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/c/HYPERMOD" /><br>
 </p>
 
 ## ```Donate Me```
 
-- [`Binance`](Wa.me/94767043432)
+- [`Binance`](Wa.me/94770181369)
 
 <p align="left">
 Send A Massage Get payment Address.
