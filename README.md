@@ -35,7 +35,7 @@ AshiSingh Bot Multi Device is a automated whatsapp bot created by <a href="https
 <p align="center">
 <a href="https://wa.me/94770181369"><img src="https://img.shields.io/badge/Contact Hyper Mod-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href=""><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="  https://youtube.com/channel/UCX-iMp9zALihVM6gg2b1Nsg   "><img src="https://img.shields.io/badge/Subscribe Hyper Mod-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/c/HYPERMOD" /><br>
+<a href="  https://youtube.com/channel/UCX-iMp9zALihVM6gg2b1Nsg   "><img src="https://img.shields.io/badge/Subscribe Hyper Mod-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=  https://youtube.com/channel/UCX-iMp9zALihVM6gg2b1Nsg   " /><br>
 </p>
 
 ## ```Donate Me```
@@ -81,7 +81,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=      https://github.com/redlion17/Yash_Official       )
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template  https://github.com/redlion17/Yash_Official       )
 
 # Install Manually 👇
 ## `Requirements`
