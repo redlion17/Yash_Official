@@ -2,7 +2,7 @@
 
 <h1 align="center">YASH_BOT😎<br></h1>
 <p align="center">
-<img src=" SAVE_20221021_134451.jpg " alt="animated" />
+<img src="Botdp.jpg  " alt="animated" />
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@ AshiSingh Bot Multi Device is a automated whatsapp bot created by <a href="https
 <p align="center">
 <a href="https://wa.me/94770181369"><img src="https://img.shields.io/badge/Contact Hyper Mod-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href=""><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href=" https://youtube.com/channel/UCX-iMp9zALihVM6gg2b1Nsg "><img src="https://img.shields.io/badge/Subscribe Hyper Mod-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/c/HYPERMOD" /><br>
+<a href="  https://youtube.com/channel/UCX-iMp9zALihVM6gg2b1Nsg   "><img src="https://img.shields.io/badge/Subscribe Hyper Mod-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/c/HYPERMOD" /><br>
 </p>
 
 ## ```Donate Me```
@@ -64,7 +64,7 @@ Type  "status off" Deactivated Auto read status.
 - FORK THE REPOSITORY [Here](https://github.com/Ashi-Singh/AutoRead-Status-Bot-Md/fork)
 
 ## `Scan QR Code For Session`
-[![Queen AshiSingh Bot](https://repl.it/badge/github/quiec/whatsasena)]( https://replit.com/@Yashuu16/YASHBOT )
+[![YASH Bot](https://repl.it/badge/github/quiec/whatsasena)]( https://replit.com/@Yashuu16/YASHBOT )
 
 ## `SETTINGS`
 
