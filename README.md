@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-AshiSingh Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/Ashi-Singh" target="_blank">Ashi Singh</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+YASH_BOT Multi Device is a automated whatsapp bot created by <a href="https://github.com/Ashi-Singh" target="_blank">Ashi Singh</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 <p align="center">
