@@ -2,7 +2,7 @@
 
 <h1 align="center">YASH_BOT😎<br></h1>
 <p align="center">
-<img src=" https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdnaws.sharechat.com%2Fnamedesigns_596200d1-1455-4f2d-9c4f-b38924ec7675-39fcb384-f42f-41b6-9996-49ede1853a99_cmprsd_40.jpg&imgrefurl=https%3A%2F%2Fsharechat.com%2Fpost%2F1ZNrNmR&tbnid=cJmqqeomKAcZEM&vet=1&docid=pmoWV5Gu2-D7cM&w=720&h=720&itg=1&hl=en-GB&source=sh%2Fx%2Fim " alt="animated" />
+<img src=" SAVE_20221021_134451.jpg " alt="animated" />
 </p>
 
 <p align="center">
