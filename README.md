@@ -61,7 +61,10 @@ Type  "status off" Deactivated Auto read status.
 
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [Here](https://github.com/Ashi-Singh/AutoRead-Status-Bot-Md/fork)
+- FORK THE REPOSITORY [Here]( https://github.com/redlion17/Yash_Official/fork )
+65
+
+d/fork)
 
 ## `Scan QR Code For Session`
 [![YASH Bot](https://repl.it/badge/github/quiec/whatsasena)]( https://replit.com/@Yashuu16/YASHBOT )
